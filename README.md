@@ -20,4 +20,5 @@
 
 > [!TIP]
 > Для запуска: dotnet run
-> Для тестирования API: http://localhost:<port>/swagger/
+> 
+> Для тестирования API: http://localhost:your_port/swagger/
